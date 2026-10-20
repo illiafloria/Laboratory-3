@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/iliefloria/Desktop/Laboratory 3/3.1(2)/main'
+relocations:     []
+...
